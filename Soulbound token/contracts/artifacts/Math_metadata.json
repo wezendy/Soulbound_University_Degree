@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Standard math utilities missing in the Solidity language.",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/SoulboundUniversityDegreeNFT_flattened.sol": "Math"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/SoulboundUniversityDegreeNFT_flattened.sol": {
+			"keccak256": "0x773a1af9aaf0aa1937ff5fc42862602635f3b5744db6ea06da17a9197a1dd089",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://d338e46c9584e19f0f495137a13b77e970f3ff6ed54c90b3364a87ae461e4539",
+				"dweb:/ipfs/QmPgV7FnewdKR7torV6cmK32fMwUNLMA2Q7Z6wZjoYQMRF"
+			]
+		}
+	},
+	"version": 1
+}
